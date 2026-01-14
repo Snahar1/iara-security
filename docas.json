@@ -1,0 +1,5 @@
+{
+    "name": "snahar/iara-security",
+    "version": "1.0.0",
+    "description": "Filtros de sanitização e escudo de proteção contra XSS."
+}
